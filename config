@@ -89,7 +89,7 @@ visualizer_in_stereo = yes
 ## visualization and audio.
 ##
 #
-visualizer_sync_interval = 0
+#visualizer_sync_interval = 0
 #
 ##
 ## Note: To enable spectrum frequency visualization you need to compile ncmpcpp
